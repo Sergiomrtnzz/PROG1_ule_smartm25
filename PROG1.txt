@@ -8,3 +8,16 @@ mesa - https://dle.rae.es/mesa
 árbol - https://dle.rae.es/árbol
 puerta - https://dle.rae.es/puerta
 teléfono - https://dle.rae.es/teléfono
+Casa https://dle.rae.es/casa
+Libro https://dle.rae.es/libro
+Ventana https://dle.rae.es/ventana
+Cielo https://dle.rae.es/cielo
+Lluvia https://dle.rae.es/lluvia
+Río https://dle.rae.es/rio
+Jardín https://dle.rae.es/jardin
+Música https://dle.rae.es/musica
+Viaje https://dle.rae.es/viaje
+Aventura https://dle.rae.es/aventura
+
+
+
